@@ -22,7 +22,7 @@ namespace DevOpsTest.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. Changed from Visual Studio!";
 
             return View();
         }
