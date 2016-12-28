@@ -27,7 +27,8 @@ namespace DevOpsTest.Test
             y.Should().Be(7);
             //this is a comment 
         }
-        [Test]
+    
+        //[Test]
         public void MyTestFail()
         {
             var y = 7;
