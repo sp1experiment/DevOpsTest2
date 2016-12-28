@@ -12,7 +12,7 @@ namespace DevOpsTest.Test
     [TestFixture]
     public class MyTestClass
     {
-        /**
+        
         [Test]
         public void MyTest()
         {
@@ -34,7 +34,7 @@ namespace DevOpsTest.Test
             y.Should().Be(33);
             //this is a comment 
         }
-        **/
+        
 
     }
 }
