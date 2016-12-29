@@ -1,5 +1,5 @@
 version: 0.0
 os: windows
 files:
-   - source: /DevOpsTest
+   - source: /DevOpsTest/bin/DevOpsTest.dll
      destination: /inetpub/wwwroot
