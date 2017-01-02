@@ -1,5 +1,5 @@
 version: 0.0
 os: windows
 files:
-   - source: /DevOpsTest
+   - source: C:/BuildAgent/temp/buildTmp/DevOpsTest2_Build
      destination: /inetpub/wwwroot
